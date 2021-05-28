@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jefferson Fernandes
-- 👀 I’m interested in languages (code, math, literature, foreign languages)
+- 👀 I’m interested in languages (code, math, literature, human languages)
 - 🌱 I’m currently learning react, lisp and french
 - 📫 aosoleasombra@gmail.com
