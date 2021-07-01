@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jefferson Fernandes
-- 👀 I’m interested in languages (code, math, literature, human languages)
+- 👀 I’m interested in languages (natural and programming languages, math and literature)
 - 🌱 I’m currently learning functional programming and french 
 - � I’m experienced with object oriented programming and spanish
 - 📫 aosoleasombra@gmail.com
